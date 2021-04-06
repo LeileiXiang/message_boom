@@ -5,12 +5,12 @@ For learning purposes, abuse is prohibited.
 
 ## How to use
 
-python main.py *phone_number* *send_number* *forever*
+python main.py **phone_number** **send_number** **forever**
 
 ### Ex: 
-  phone number: 111******11
+  phone_number: 111******11
   
-  send number: 10
+  send_number: 10
   
   forever: 0 or 1
   
